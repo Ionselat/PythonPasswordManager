@@ -6,7 +6,6 @@ import os
 
 FONT_NAME = "Courier"
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
-#FILE_PATH = "D:/Code/Python/100DaysOfCode/day29PasswordManager/"
 FONT_NAME = "Courier"
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
